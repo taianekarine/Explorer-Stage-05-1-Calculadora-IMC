@@ -39,7 +39,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Corrigir layout
+<img width="437" alt="Captura de Tela 2022-11-07 às 22 34 27" src="https://user-images.githubusercontent.com/94652702/200452186-5b259106-5366-4ad3-b59b-21a85d8bd00d.png">
+
+
+## Você pode aacessarr o projeto online através do link abaixo:
+https://explorer-stage-05-1-calculadora-imc.vercel.app/
 
 
 ---
